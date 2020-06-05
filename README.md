@@ -17,7 +17,7 @@ install_github("mingjingsi/LSMM")
 Usage
 ===========
 
-[The 'LSMM' vignette](https://github.com/mingjingsi/LSMM/blob/master/inst/doc/LSMM_package.pdf?raw=true) will provide a good start point for the genetic analysis using LSMM package. The following help page will also provide quick references for LSMM package and the example command lines:
+[The 'LSMM' vignette](https://github.com/YangLabHKUST/LSMM/blob/master/inst/doc/LSMM_package.pdf?raw=true) will provide a good start point for the genetic analysis using LSMM package. The following help page will also provide quick references for LSMM package and the example command lines:
 
 ```
 library(LSMM)
@@ -33,7 +33,7 @@ Jingsi Ming, Mingwei Dai, Mingxuan Cai, Xiang Wan, Jin Liu, Can Yang; LSMM: A st
 Reproducibility
 ==========
 
-All the simulation results can be reproduced by using the code at [sim-LSMM](https://github.com/mingjingsi/sim-LSMM). We also provide an example to reproduce the results of real data analysis at [sim-LSMM/realdata_example.R](https://github.com/mingjingsi/sim-LSMM/blob/master/realdata_example.R). The data sets analyzed in this paper, including nine genic category annotations, 127 cell-type specific functional annotations, and the summary statistics of 30 GWASs can be downloaded [here](https://drive.google.com/drive/folders/1YrhncaNpo6doHfnIYqXPlhPdE7YpqEjO).
+All the simulation results can be reproduced by using the code at [sim-LSMM](https://github.com/YangLabHKUST/sim-LSMM). We also provide an example to reproduce the results of real data analysis at [sim-LSMM/realdata_example.R](https://github.com/YangLabHKUST/sim-LSMM/blob/master/realdata_example.R). The data sets analyzed in this paper, including nine genic category annotations, 127 cell-type specific functional annotations, and the summary statistics of 30 GWASs can be downloaded [here](https://drive.google.com/drive/folders/1YrhncaNpo6doHfnIYqXPlhPdE7YpqEjO).
 
 
 Development
